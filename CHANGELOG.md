@@ -1,2 +1,2 @@
-### 0.0.3: 28 Oct 2019
-- Project is no longer maintained
+### 0.0.4: 2023/05/17
+- Project is maintained again.
